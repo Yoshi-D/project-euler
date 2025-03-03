@@ -39,4 +39,4 @@ with open("11_grid.txt",'r') as f:
       
    print(result)
       
-      
+   
